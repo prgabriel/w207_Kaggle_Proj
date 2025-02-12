@@ -27,7 +27,7 @@ This repository contains the code and resources for participating in the Kaggle 
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd kaggle-competition
+   cd w207_kaggle_proj
    ```
 
 2. Install the required packages:
