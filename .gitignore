@@ -79,3 +79,4 @@ target/
 
 # Additional Directories
 .DS_Store
+data/**/
