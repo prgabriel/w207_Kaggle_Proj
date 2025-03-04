@@ -80,3 +80,4 @@ target/
 # Additional Directories
 .DS_Store
 data/**/
+**/notebooks/mlruns
