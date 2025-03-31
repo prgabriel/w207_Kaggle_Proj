@@ -10,3 +10,4 @@ xgboost
 lightgbm
 category_encoders
 mlflow
+xgboost
