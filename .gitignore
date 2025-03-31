@@ -81,3 +81,5 @@ target/
 .DS_Store
 data/**/
 **/notebooks/mlruns
+mlruns/
+mlartifacts/
